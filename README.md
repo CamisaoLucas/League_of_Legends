@@ -35,7 +35,7 @@ Exemplo de query respondida:
 ![Gráfico](https://i.ibb.co/pZS0RCP/222222222222222.png)
 
 
-### Ilustração do Soft Skill usado no nosso projeto.
+### Ilustração Soft Skills usado no nosso projeto.
 
 
 ![Trello](https://i.ibb.co/bHGY3Hb/3333.png)
