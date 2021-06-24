@@ -34,15 +34,34 @@ Exemplo de query respondida:
 ![Gráfico](https://i.ibb.co/pZS0RCP/222222222222222.png)
 
 
-### Ilustração Soft Skills usado no nosso projeto.
+### Ilustração Soft Skills usado no projeto.
 
 
 ![Trello](https://i.ibb.co/bHGY3Hb/3333.png)
 
+<br>
 
+## Documentação
 
-
+### Modelo de Entidade Relacional:
 
 ![MER](https://i.ibb.co/bmZSq0m/mer.png)
+
+### Chaves:
+
+![chaves](https://i.ibb.co/CPBF5vv/99999.png)
+
+<br>
+
+### Tabelas:
+
+1. matchinfo: Infomações da partida
+2. bans: Infomações sobre os banimentos do jogo
+3. kills: Infomações sobre mortes do jogo
+4. strutuctures: Infomações sobre as estruturas do jogo
+5. monsters: Infomações sobre os monstros do jogo
+
+
+
 
 
