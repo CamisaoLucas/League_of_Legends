@@ -7,7 +7,7 @@ Este projeto teve como desafios para nosso grupo:
 - Hard Skills : Docker, SQL, Workbench e Metabase
 - Soft Skills:  Scrum , Kanban e Trello
 
-Neste projeto fomos desafiados a montar um container através do Docker,  fazer a criação de uma imagem Mysql e subir o banco de dados do jogo online League of Legends com o Metabase gerando assim os gráficos informativos . 
+Neste projeto fomos desafiados a montar um container através do docker, fazer a criação de uma imagem Mysql e subir o banco de dados do jogo online League of Legends com o Metabase gerando assim os gráficos informativos. 
 Através de um brainstorming criamos 9 querys para consulta no nosso banco de dados através de uma análise requisitos do nosso cliente. <br>
 <br>
 ### Querys:
