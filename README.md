@@ -2,7 +2,6 @@
 
 ## Sobre o projeto
 
-
 Este projeto teve como desafios para nosso grupo:
 - Hard Skills : Docker, SQL, Workbench e Metabase
 - Soft Skills:  Scrum , Kanban e Trello
